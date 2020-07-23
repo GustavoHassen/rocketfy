@@ -11,3 +11,9 @@ yarn install
 # Start the app on a new window
 yarn start
 ```
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/gustavohassen/gobarber-api/blob/master/LICENCE)
+
+Made by Gustavo Hassen dos Santos [Linkedin](https://www.linkedin.com/in/gustavo-hassen-dos-santos/)
